@@ -1,0 +1,5 @@
+fruits = input("Enter a fruits name seperaed by commas: ")
+fruits_list = fruits.split(",")
+length = len(fruits_list)
+# print(fruits_list)
+print(f"You have entered {length} fruits.")
