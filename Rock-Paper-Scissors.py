@@ -30,3 +30,35 @@ def main():  #this is a function main()
 
 if __name__ == "__main__":
     main()
+
+
+# import random
+# user_choice = input("enter your choice: ")
+# possible_action = ["rock","paper","sessor"] 
+# computer_choice = random.choice(possible_action)
+# print(f"computer choice:" ,computer_choice)
+
+# if user_choice == computer_choice:
+#     print(f"both player choice ",user_choice, "so its a tie")
+
+# elif user_choice == "paper":
+#     if computer_choice == "rock":
+#         print("you win paper cover rock")
+#     else:
+#         print("you lose sessor cut the paper") 
+# elif user_choice == "rock":
+#     if computer_choice == "sessor":
+#         print("you win rock smash sessor")
+#     else:
+#         print("you lose paper cover rock")
+# elif user_choice == "sessor":
+#     if computer_choice == "paper":
+#         print("you win sessor cut the paper")
+#     else:
+#         print("you lose rock smash sessor")
+# else:
+#     print("nothing")
+
+
+
+
